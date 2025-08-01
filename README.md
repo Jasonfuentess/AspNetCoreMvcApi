@@ -9,8 +9,11 @@ java
 
 Solution
 │
+
 ├── Api                 → ASP.NET Core Web API (Controllers)
+
 ├── BusinessLayer       → Class Library (Business logic and services)
+
 └── DataAccessLayer     → Class Library (EF Core DbContext and Repositories)
 🌐 Use Case: Geo-Located Articles
 
@@ -55,16 +58,16 @@ Postman (for endpoint testing)
 
 ### 🔍 GET Example
 
-![GET Example](../assets/GET.JPEG)
+![GET Example](/assets/GET.jpeg)
 
 ### 🔍 POST  Example
 
-![POST Example](../assets/POST.JPEG)
+![POST Example](/assets/POST.jpeg)
 
 ### 🔍 PUT  Example
 
-![PUT Example](../assets/PUT.JPEG)
+![PUT Example](/assets/PUT.jpeg)
 
 ### 🔍 DELETE  Example
 
-![DELETE Example](../assets/DELETE.JPEG)
+![DELETE Example](/assets/DELETE.jpeg)
