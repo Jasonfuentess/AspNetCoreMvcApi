@@ -55,16 +55,16 @@ Postman (for endpoint testing)
 
 ### 🔍 GET Example
 
-![GET Example](assets/GET.JPG)
+![GET Example](./assets/GET.JPG)
 
 ### 🔍 POST  Example
 
-![POST Example](assets/POST.JPG)
+![POST Example](./assets/POST.JPG)
 
 ### 🔍 PUT  Example
 
-![PUT Example](assets/PUT.JPG)
+![PUT Example](./assets/PUT.JPG)
 
 ### 🔍 DELETE  Example
 
-![DELETE Example](assets/DELETE.JPG)
+![DELETE Example](./assets/DELETE.JPG)
